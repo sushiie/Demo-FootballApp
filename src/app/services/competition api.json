@@ -1,0 +1,571 @@
+{
+	"_links": {
+		"self": {
+			"href": "http://api.football-data.org/v1/competitions/394/leagueTable/?matchday=34"
+		},
+		"competition": {
+			"href": "http://api.football-data.org/v1/competitions/394"
+		}
+	},
+	"leagueCaption": "1. Bundesliga 2015/16",
+	"matchday": 34,
+	"standing": [{
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/5"
+			}
+		},
+		"position": 1,
+		"teamName": "FC Bayern München",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg",
+		"playedGames": 34,
+		"points": 88,
+		"goals": 80,
+		"goalsAgainst": 17,
+		"goalDifference": 63,
+		"wins": 28,
+		"draws": 4,
+		"losses": 2,
+		"home": {
+			"goals": 51,
+			"goalsAgainst": 8,
+			"wins": 15,
+			"draws": 1,
+			"losses": 1
+		},
+		"away": {
+			"goals": 29,
+			"goalsAgainst": 9,
+			"wins": 13,
+			"draws": 3,
+			"losses": 1
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/4"
+			}
+		},
+		"position": 2,
+		"teamName": "Borussia Dortmund",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+		"playedGames": 34,
+		"points": 78,
+		"goals": 82,
+		"goalsAgainst": 34,
+		"goalDifference": 48,
+		"wins": 24,
+		"draws": 6,
+		"losses": 4,
+		"home": {
+			"goals": 49,
+			"goalsAgainst": 14,
+			"wins": 14,
+			"draws": 3,
+			"losses": 0
+		},
+		"away": {
+			"goals": 33,
+			"goalsAgainst": 20,
+			"wins": 10,
+			"draws": 3,
+			"losses": 4
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/3"
+			}
+		},
+		"position": 3,
+		"teamName": "Bayer Leverkusen",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg",
+		"playedGames": 34,
+		"points": 60,
+		"goals": 56,
+		"goalsAgainst": 40,
+		"goalDifference": 16,
+		"wins": 18,
+		"draws": 6,
+		"losses": 10,
+		"home": {
+			"goals": 31,
+			"goalsAgainst": 17,
+			"wins": 10,
+			"draws": 3,
+			"losses": 4
+		},
+		"away": {
+			"goals": 25,
+			"goalsAgainst": 23,
+			"wins": 8,
+			"draws": 3,
+			"losses": 6
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/18"
+			}
+		},
+		"position": 4,
+		"teamName": "Bor. Mönchengladbach",
+		"crestURI": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg",
+		"playedGames": 34,
+		"points": 55,
+		"goals": 67,
+		"goalsAgainst": 50,
+		"goalDifference": 17,
+		"wins": 17,
+		"draws": 4,
+		"losses": 13,
+		"home": {
+			"goals": 42,
+			"goalsAgainst": 18,
+			"wins": 13,
+			"draws": 1,
+			"losses": 3
+		},
+		"away": {
+			"goals": 25,
+			"goalsAgainst": 32,
+			"wins": 4,
+			"draws": 3,
+			"losses": 10
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/6"
+			}
+		},
+		"position": 5,
+		"teamName": "FC Schalke 04",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/6/6d/FC_Schalke_04_Logo.svg",
+		"playedGames": 34,
+		"points": 52,
+		"goals": 51,
+		"goalsAgainst": 49,
+		"goalDifference": 2,
+		"wins": 15,
+		"draws": 7,
+		"losses": 12,
+		"home": {
+			"goals": 28,
+			"goalsAgainst": 24,
+			"wins": 8,
+			"draws": 5,
+			"losses": 4
+		},
+		"away": {
+			"goals": 23,
+			"goalsAgainst": 25,
+			"wins": 7,
+			"draws": 2,
+			"losses": 8
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/15"
+			}
+		},
+		"position": 6,
+		"teamName": "1. FSV Mainz 05",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg",
+		"playedGames": 34,
+		"points": 50,
+		"goals": 46,
+		"goalsAgainst": 42,
+		"goalDifference": 4,
+		"wins": 14,
+		"draws": 8,
+		"losses": 12,
+		"home": {
+			"goals": 23,
+			"goalsAgainst": 18,
+			"wins": 8,
+			"draws": 4,
+			"losses": 5
+		},
+		"away": {
+			"goals": 23,
+			"goalsAgainst": 24,
+			"wins": 6,
+			"draws": 4,
+			"losses": 7
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/9"
+			}
+		},
+		"position": 7,
+		"teamName": "Hertha BSC",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/8/81/Hertha_BSC_Logo_2012.svg",
+		"playedGames": 34,
+		"points": 50,
+		"goals": 42,
+		"goalsAgainst": 42,
+		"goalDifference": 0,
+		"wins": 14,
+		"draws": 8,
+		"losses": 12,
+		"home": {
+			"goals": 24,
+			"goalsAgainst": 15,
+			"wins": 9,
+			"draws": 5,
+			"losses": 3
+		},
+		"away": {
+			"goals": 18,
+			"goalsAgainst": 27,
+			"wins": 5,
+			"draws": 3,
+			"losses": 9
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/11"
+			}
+		},
+		"position": 8,
+		"teamName": "VfL Wolfsburg",
+		"crestURI": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg",
+		"playedGames": 34,
+		"points": 45,
+		"goals": 47,
+		"goalsAgainst": 49,
+		"goalDifference": -2,
+		"wins": 12,
+		"draws": 9,
+		"losses": 13,
+		"home": {
+			"goals": 32,
+			"goalsAgainst": 17,
+			"wins": 9,
+			"draws": 5,
+			"losses": 3
+		},
+		"away": {
+			"goals": 15,
+			"goalsAgainst": 32,
+			"wins": 3,
+			"draws": 4,
+			"losses": 10
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/1"
+			}
+		},
+		"position": 9,
+		"teamName": "1. FC Köln",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/1/16/1._FC_Köln.svg",
+		"playedGames": 34,
+		"points": 43,
+		"goals": 38,
+		"goalsAgainst": 42,
+		"goalDifference": -4,
+		"wins": 10,
+		"draws": 13,
+		"losses": 11,
+		"home": {
+			"goals": 16,
+			"goalsAgainst": 18,
+			"wins": 5,
+			"draws": 5,
+			"losses": 7
+		},
+		"away": {
+			"goals": 22,
+			"goalsAgainst": 24,
+			"wins": 5,
+			"draws": 8,
+			"losses": 4
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/7"
+			}
+		},
+		"position": 10,
+		"teamName": "Hamburger SV",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg",
+		"playedGames": 34,
+		"points": 41,
+		"goals": 40,
+		"goalsAgainst": 46,
+		"goalDifference": -6,
+		"wins": 11,
+		"draws": 8,
+		"losses": 15,
+		"home": {
+			"goals": 20,
+			"goalsAgainst": 23,
+			"wins": 5,
+			"draws": 4,
+			"losses": 8
+		},
+		"away": {
+			"goals": 20,
+			"goalsAgainst": 23,
+			"wins": 6,
+			"draws": 4,
+			"losses": 7
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/31"
+			}
+		},
+		"position": 11,
+		"teamName": "FC Ingolstadt 04",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/5/55/FC-Ingolstadt_logo.svg",
+		"playedGames": 34,
+		"points": 40,
+		"goals": 33,
+		"goalsAgainst": 42,
+		"goalDifference": -9,
+		"wins": 10,
+		"draws": 10,
+		"losses": 14,
+		"home": {
+			"goals": 22,
+			"goalsAgainst": 18,
+			"wins": 7,
+			"draws": 5,
+			"losses": 5
+		},
+		"away": {
+			"goals": 11,
+			"goalsAgainst": 24,
+			"wins": 3,
+			"draws": 5,
+			"losses": 9
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/16"
+			}
+		},
+		"position": 12,
+		"teamName": "FC Augsburg",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg",
+		"playedGames": 34,
+		"points": 38,
+		"goals": 42,
+		"goalsAgainst": 52,
+		"goalDifference": -10,
+		"wins": 9,
+		"draws": 11,
+		"losses": 14,
+		"home": {
+			"goals": 18,
+			"goalsAgainst": 27,
+			"wins": 3,
+			"draws": 6,
+			"losses": 8
+		},
+		"away": {
+			"goals": 24,
+			"goalsAgainst": 25,
+			"wins": 6,
+			"draws": 5,
+			"losses": 6
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/12"
+			}
+		},
+		"position": 13,
+		"teamName": "Werder Bremen",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
+		"playedGames": 34,
+		"points": 38,
+		"goals": 50,
+		"goalsAgainst": 65,
+		"goalDifference": -15,
+		"wins": 10,
+		"draws": 8,
+		"losses": 16,
+		"home": {
+			"goals": 27,
+			"goalsAgainst": 30,
+			"wins": 5,
+			"draws": 5,
+			"losses": 7
+		},
+		"away": {
+			"goals": 23,
+			"goalsAgainst": 35,
+			"wins": 5,
+			"draws": 3,
+			"losses": 9
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/55"
+			}
+		},
+		"position": 14,
+		"teamName": "SV Darmstadt 98",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/8/87/Svdarmstadt98.svg",
+		"playedGames": 34,
+		"points": 38,
+		"goals": 38,
+		"goalsAgainst": 53,
+		"goalDifference": -15,
+		"wins": 9,
+		"draws": 11,
+		"losses": 14,
+		"home": {
+			"goals": 15,
+			"goalsAgainst": 29,
+			"wins": 2,
+			"draws": 6,
+			"losses": 9
+		},
+		"away": {
+			"goals": 23,
+			"goalsAgainst": 24,
+			"wins": 7,
+			"draws": 5,
+			"losses": 5
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/2"
+			}
+		},
+		"position": 15,
+		"teamName": "TSG 1899 Hoffenheim",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/e/e7/Logo_TSG_Hoffenheim.svg",
+		"playedGames": 34,
+		"points": 37,
+		"goals": 39,
+		"goalsAgainst": 54,
+		"goalDifference": -15,
+		"wins": 9,
+		"draws": 10,
+		"losses": 15,
+		"home": {
+			"goals": 22,
+			"goalsAgainst": 25,
+			"wins": 6,
+			"draws": 6,
+			"losses": 5
+		},
+		"away": {
+			"goals": 17,
+			"goalsAgainst": 29,
+			"wins": 3,
+			"draws": 4,
+			"losses": 10
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/19"
+			}
+		},
+		"position": 16,
+		"teamName": "Eintracht Frankfurt",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg",
+		"playedGames": 34,
+		"points": 36,
+		"goals": 34,
+		"goalsAgainst": 52,
+		"goalDifference": -18,
+		"wins": 9,
+		"draws": 9,
+		"losses": 16,
+		"home": {
+			"goals": 22,
+			"goalsAgainst": 24,
+			"wins": 6,
+			"draws": 6,
+			"losses": 5
+		},
+		"away": {
+			"goals": 12,
+			"goalsAgainst": 28,
+			"wins": 3,
+			"draws": 3,
+			"losses": 11
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/10"
+			}
+		},
+		"position": 17,
+		"teamName": "VfB Stuttgart",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/commons/a/ab/VfB_Stuttgart_Logo.svg",
+		"playedGames": 34,
+		"points": 33,
+		"goals": 50,
+		"goalsAgainst": 75,
+		"goalDifference": -25,
+		"wins": 9,
+		"draws": 6,
+		"losses": 19,
+		"home": {
+			"goals": 22,
+			"goalsAgainst": 32,
+			"wins": 6,
+			"draws": 1,
+			"losses": 10
+		},
+		"away": {
+			"goals": 28,
+			"goalsAgainst": 43,
+			"wins": 3,
+			"draws": 5,
+			"losses": 9
+		}
+	}, {
+		"_links": {
+			"team": {
+				"href": "http://api.football-data.org/v1/teams/8"
+			}
+		},
+		"position": 18,
+		"teamName": "Hannover 96",
+		"crestURI": "http://upload.wikimedia.org/wikipedia/de/c/cd/Hannover_96_Logo.svg",
+		"playedGames": 34,
+		"points": 25,
+		"goals": 31,
+		"goalsAgainst": 62,
+		"goalDifference": -31,
+		"wins": 7,
+		"draws": 4,
+		"losses": 23,
+		"home": {
+			"goals": 15,
+			"goalsAgainst": 30,
+			"wins": 4,
+			"draws": 0,
+			"losses": 13
+		},
+		"away": {
+			"goals": 16,
+			"goalsAgainst": 32,
+			"wins": 3,
+			"draws": 4,
+			"losses": 10
+		}
+	}]
+}

@@ -1,0 +1,8 @@
+<div>
+	<ul class="list-group" *ngFor = "let standing of items">
+	  <!-- <li class="list-group-item"><a href="team">{{standing.teamName}}</a></li> -->
+	  <li class="list-group-item"><a [routerLink]="['/team', standing._links.team.href]">{{standing.teamName}}</a></li>
+	</ul>
+</div>
+		
+

@@ -1,0 +1,8 @@
+<div>
+	<ul class="list-group" *ngFor = "let competition of items">	
+	  <li class="list-group-item"><a [routerLink]="['/standings', competition._links.leagueTable.href]">{{competition.caption}}</a></li>
+	  <!-- <li class="list-group-item"><a [routerLink]="['/standings', competition.id]" >{{competition.caption}}</a></li> -->
+	</ul>
+</div>
+		
+
